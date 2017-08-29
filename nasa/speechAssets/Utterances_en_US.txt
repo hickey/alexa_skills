@@ -1,0 +1,24 @@
+GetNewFactIntent a fact
+GetNewFactIntent a space fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a space fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a space fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a space trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a space trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some space information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetCloseCalls to tell me about close calls
+GetCloseCalls about close calls
+GetCloseCalls to tell me about nearby asteroids
+GetCloseCalls about nearby asteroids
+GetCloseCalls to tell me about asteroid impacts
+GetCloseCalls about asteroid impacts
+GetCloseCalls to tell me about impact events
+GetCloseCalls about impact events
+GetCloseCalls if there are any close calls
+GetCloseCalls for possible impact events
