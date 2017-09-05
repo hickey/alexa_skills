@@ -1,0 +1,12 @@
+
+const {exec} = require('child_process');
+
+task('default', function() {
+  jake["build"].invoke();
+})
+
+desc("Build distribution ZIP file for deployment");
+task('build', function() {
+  console.log(exec("zip -u -v -r ../nearmiss.zip *.js node_modules"));
+})
+
