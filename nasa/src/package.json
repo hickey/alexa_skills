@@ -1,0 +1,13 @@
+{
+    "name": "AlexaNASASkill",
+    "version": "0.9.0",
+    "description": "Alexa skill to provide information about NASA missions and space objects",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hickey/AlexaSkills.git"
+    },
+    "dependencies": {
+        "alexa-sdk": ">=1.0.12"
+    }
+}
