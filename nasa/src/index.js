@@ -2,12 +2,12 @@
 var Alexa = require('alexa-sdk');
 var Https = require('https');
 var Url = require('url');
-var Math = require('math');
+//var Math = require('math');
 
 
 //Replace with your app ID (OPTIONAL).  You can find this value at the top of your skill's page on http://developer.amazon.com.  
 //Make sure to enclose your value in quotes, like this: var APP_ID = "amzn1.ask.skill.bb4045e6-b3e8-4133-b650-72923c5980f1";
-var APP_ID = undefined;
+var APP_ID = "amzn1.ask.skill.078f9a52-af80-47b3-b564-44a1282a8d72";
 
 var HELP_MESSAGE = "You can say tell me a space fact, or, you can say exit... What can I help you with?";
 var HELP_REPROMPT = "What can I help you with?";
